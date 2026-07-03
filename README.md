@@ -38,7 +38,7 @@ Respositorio dedicado a mis prácticas,laboratorios y temas de estudios para la 
 - En vía de desarrollo
 
 **Autor:** Yescas  
-**Automatización | Linux | Redes | Ciberseguridad | DevOps | Cloud Computing**
+**Automatización | Linux | Redes | Ciberseguridad | DevOps | Cloud Computing | Infraestructura IT | SRE | **
 
 >[NOTE!]
 >Este repositorio documenta el progreso, las prácticas y los conocimientos adquiridos durante cada etapa de esta ruta profesional.
